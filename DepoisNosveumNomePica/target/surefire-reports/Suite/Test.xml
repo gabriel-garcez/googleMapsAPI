@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-J7ONAL4" name="googleMapsTests.basics" tests="5" failures="0" timestamp="6 Aug 2019 15:12:44 GMT" time="7.992" errors="0">
+  <testcase name="getPlaceAPI" time="4.401" classname="googleMapsTests.basics"/>
+  <testcase name="createPlaceAPI" time="0.835" classname="googleMapsTests.basics2"/>
+  <testcase name="AddandDeletePlace" time="0.91" classname="googleMapsTests.basics3"/>
+  <testcase name="postDataXML" time="0.484" classname="googleMapsTests.basics4"/>
+  <testcase name="extractingNamesAPI" time="1.341" classname="googleMapsTests.basics5"/>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7992" started-at="2019-08-06T12:12:36Z" finished-at="2019-08-06T12:12:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7992" started-at="2019-08-06T12:12:36Z" finished-at="2019-08-06T12:12:44Z">
+      <class name="googleMapsTests.basics">
+        <test-method status="PASS" signature="getPlaceAPI()" name="getPlaceAPI" duration-ms="4401" started-at="2019-08-06T12:12:36Z" finished-at="2019-08-06T12:12:40Z">
+        </test-method>
+      </class>
+      <class name="googleMapsTests.basics5">
+        <test-method status="PASS" signature="extractingNamesAPI()" name="extractingNamesAPI" duration-ms="1341" started-at="2019-08-06T12:12:42Z" finished-at="2019-08-06T12:12:44Z">
+        </test-method>
+      </class>
+      <class name="googleMapsTests.basics4">
+        <test-method status="PASS" signature="postDataXML()" name="postDataXML" duration-ms="484" started-at="2019-08-06T12:12:42Z" finished-at="2019-08-06T12:12:42Z">
+        </test-method>
+      </class>
+      <class name="googleMapsTests.basics3">
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="12" started-at="2019-08-06T12:12:36Z" finished-at="2019-08-06T12:12:36Z">
+        </test-method>
+        <test-method status="PASS" signature="AddandDeletePlace()" name="AddandDeletePlace" duration-ms="910" started-at="2019-08-06T12:12:41Z" finished-at="2019-08-06T12:12:42Z">
+        </test-method>
+      </class>
+      <class name="googleMapsTests.basics2">
+        <test-method status="PASS" signature="createPlaceAPI()" name="createPlaceAPI" duration-ms="835" started-at="2019-08-06T12:12:40Z" finished-at="2019-08-06T12:12:41Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
